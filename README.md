@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2>Hello there, I'm Aldo S.</h2>
+Currently I am in Brazil, lover of programming since childhood, always in search of knowledge and challenges. 
+<br />
 
-<!--
-**devilzcore/devilzcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='./_img/darksouls.gif'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Aldo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalduos/)](https://www.linkedin.com/in/imalduos/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Full Stack Web Developer: **Node.js, ReactJS, React Native**
+- Database: **MySQL, SQL Server, PostgreSQL, MongoDB**
+
+## Education
+- **Computer Science** student 6th Period
