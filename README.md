@@ -2,7 +2,7 @@
 Currently I am in Brazil, lover of programming since childhood, always in search of knowledge and challenges. 
 <br />
 
-<img align='right' src='./_img/darksouls.gif'>
+<img align='right' src='https://github.com/devilzcore/devilzcore/blob/master/_img/darksouls.gif?raw=true'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aldo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalduos/)](https://www.linkedin.com/in/imalduos/)
 
