@@ -7,8 +7,8 @@ Currently I am in Brazil, lover of programming since childhood, always in search
 [![Linkedin Badge](https://img.shields.io/badge/-Aldo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalduos/)](https://www.linkedin.com/in/imalduos/)
 
 ## Technologies
-- Full Stack Web Developer: **Node.js, ReactJS, React Native**
+- Full Stack Web Developer: **Node.js, Typescript, ReactJS, React Native**
 - Database: **MySQL, SQL Server, PostgreSQL, MongoDB**
 
 ## Education
-- **Computer Science** student 6th Period
+- **Computer Science** student 7th Period
