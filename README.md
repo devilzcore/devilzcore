@@ -1,6 +1,6 @@
 <h2>Hello there, I'm Aldo S.</h2>
-Bachelor's deegree in computer science, currently i'm live in Brazil, lover of programming and technology since childhood, always in search of knowledge and challenges.
+Software engineer with a degree in Computer Science, currently residing in Brazil. Curious about programming and technology since childhood, always developing solutions for both simple and complex problems.
 
-## Working with technologies
-- Stack: **Node.js, C#/.NET, Typescript, React.js, React Native**
+## Technologies I currently work with
+- Stack: **Node.js, C#/.NET, Typescript, Angular.js, React.js, React Native**
 - Database: **MySQL, SQL Server, PostgreSQL, MongoDB**
